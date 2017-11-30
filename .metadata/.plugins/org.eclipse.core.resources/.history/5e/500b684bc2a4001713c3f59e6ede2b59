@@ -1,0 +1,6 @@
+movies = ['The Holy Grail', 1975, 
+'The Life of Brian', 91, ['Graham Cahpman',
+['Michael Palin', 'John Cleese', 'Terry Gilliam', 'Eric Idle']]]
+
+movies.insert(movies[4][0], [3,5])
+movies

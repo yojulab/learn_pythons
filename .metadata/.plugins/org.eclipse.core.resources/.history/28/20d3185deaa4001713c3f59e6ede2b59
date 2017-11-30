@@ -1,0 +1,5 @@
+import os
+# os.chdir(os.getcwd()+'/test')
+# print(os.getcwd())
+print(os.path.exists('./test/'))
+os.remove('./test/')

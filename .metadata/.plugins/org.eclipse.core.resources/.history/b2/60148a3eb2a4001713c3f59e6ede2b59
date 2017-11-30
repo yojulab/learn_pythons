@@ -1,0 +1,3 @@
+myname =input('What is your name? ')
+score = int(myname)
+print("Your score is "+str(score))

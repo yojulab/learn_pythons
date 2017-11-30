@@ -1,0 +1,23 @@
+import sys
+from PySide2 import QtCore, QtGui, QtWidgets
+class ButtonWindow(QtGui.QWidget):
+    def __init__(self):
+        QtGui.QWidget.__init__(self)
+        self.setWindowTitle("Button Window");    self.setGeometry(300, 200, 200, 200)
+        vbox = QtGui.QVBoxLayout(self)
+        vbox.setContentsMargins(QtCore.QMargins(5,5,5,5));    vbox.setSpacing(10)
+        self.checkbox = QtGui.QCheckBox("CheckButton", self)
+        self.checkbox.setObjectName("check");        vbox.addWidget(self.checkbox)
+        self.button = QtGui.QPushButton("OK", self)
+        self.button.setObjectName("button");        vbox.addWidget(self.button)
+        self.button.clicked.connect(self.clicked);        self.resize(350, 200)
+    def printState(self, button):
+        if button.isChecked():
+            print (button.objectName(), "is checked")
+        else :    print (button.objectName(), "is not checked")
+    def clicked(self):
+        self.printState(self.checkbox)
+if __name__ == "__main__" :
+    app = QtGui.QApplication(sys.argv)
+    bw = ButtonWindow()
+    bw.show();        sys.exit(app.exec_())

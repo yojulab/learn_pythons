@@ -1,0 +1,3 @@
+print("helloworld")
+p = 5
+y = p+p

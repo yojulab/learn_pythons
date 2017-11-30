@@ -1,0 +1,5 @@
+In general, I would recommend that you look into using Python's struct module for this. It's standard with Python, and it should be easy to translate your question's specification into a formatting string suitable for struct.unpack().
+
+Do note that if there's "invisible" padding between/around the fields, you will need to figure that out and include it in the unpack() call, or you will read the wrong bits.
+
+Reading the contents of the file in order to have something to unpack is pretty trivial:

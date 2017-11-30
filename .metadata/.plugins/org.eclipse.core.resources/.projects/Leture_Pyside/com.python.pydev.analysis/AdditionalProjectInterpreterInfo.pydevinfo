@@ -1,0 +1,55 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/yojulab/Develop/eclipse-workspace_py/.metadata/.plugins/org.eclipse.core.resources/.projects/Leture_Pyside/com.python.pydev.analysis/v2_indexcache
+SignalSlot_pyside2|1508489571431029000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/SignalSlot_pyside2.py
+Event_pyside2|1508490612127386000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/Event_pyside2.py
+helloworld_pyside2|1508487907944979000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/helloworld_pyside2.py
+pushButton_pyside2|1508485740388025000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/pushButton_pyside2.py
+Widget_pyside2|1508491378397328000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/Widget_pyside2.py
+LayoutContainer_pyside2|1508489948524994000|/home/yojulab/Develop/eclipse-workspace_py/Leture_Pyside/LayoutContainer_pyside2.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=SignalSlot_pyside2
+10=ButtonWindow.__init__
+5=Event_pyside2
+1=pushButton_pyside2
+4=helloworld_pyside2
+9=EventWindow
+2=Widget_pyside2
+7=ButtonWindow
+8=LayoutWindow
+6=LayoutContainer_pyside2
+-- END DICTIONARY
+-- START TREE 1
+10
+app|6|app!11@app!19@app!27@app!35@app!43@app!51@
+but|3|button!11@ButtonWindow!17@ButtonWindow!25@
+bw|2|bw!27@bw!19@
+dg|0|
+dia|0|
+eve|1|EventWindow!41@
+hel|1|hello!10@
+lab|1|label!35@
+lay|1|LayoutWindow!49@
+lw|1|lw!51@
+-- END TREE
+-- START TREE 2
+16
+__i|4|__init__!7&18@__init__!7&26@__init__!8&50@__init__!9&42@
+act|1|activated!7&18@
+but|2|button!10&27@button!10&19@
+can|0|
+che|1|checkbox!10&19@
+cli|1|clicked!7&18@
+com|1|combo!10&19@
+hel|1|hello!7&26@
+key|1|keyPressEvent!9&42@
+lin|0|
+mou|2|mouseMoveEvent!9&42@mouseDoubleClickEvent!9&42@
+ok|0|
+pai|1|paintEvent!9&42@
+poi|1|points!9&43@
+pri|1|printState!7&18@
+rad|2|radiobutton2!10&19@radiobutton1!10&19@
+-- END TREE

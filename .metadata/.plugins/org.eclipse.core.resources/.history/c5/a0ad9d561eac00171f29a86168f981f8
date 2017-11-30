@@ -1,0 +1,10 @@
+# from ClassEmployee import Employee as emp, Point
+import ClassEmployee as emp
+
+emp1 = emp.Employee("Zara", 2000)
+#This would create second object of ClassEmployee class"
+emp2 = emp("Manni", 5000)
+emp1.displayEmployee()
+emp2.displayEmployee()
+
+import sys

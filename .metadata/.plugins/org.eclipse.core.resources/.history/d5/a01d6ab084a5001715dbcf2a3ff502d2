@@ -1,0 +1,11 @@
+x = {'a': 10, 'b': 20, 'c': 30, 'd': 40}
+x.update(a=100, b=200);            
+print(x)
+x.pop('a')
+# del x['a'];                            
+x.setdefault('f', 100)
+print(x)
+y = x.copy()
+print(y)
+print('==',x == y)
+print('is', x is y)
