@@ -1,5 +1,0 @@
-x = {'a': 10, 'b': 20, 'c': 30, 'd': 40}
-x.update(a=100, b=200);            
-# x.pop('a')
-# del x['a'];                            
-# x.setdefault('f', 100)

@@ -1,6 +1,0 @@
-fo = open("foo.txt", "r+")
-try:
-with open('foo.txt', 'w') as man_out:
-    print(man, file=man_out)
-except IOError as err:
-print('The script file is missing. '+ str(err))

@@ -1,6 +1,0 @@
-movies = ['The Holy Grail', 1975, 
-'The Life of Brian', 91, ['Graham Cahpman',
-['Michael Palin', 'John Cleese', 'Terry Gilliam', 'Eric Idle']]]
-
-movies = movies[4:][:1] + [4,5] + movies[4][1:]
-print(movies)

@@ -1,8 +1,0 @@
-
-man = 'Its a good day'
-
-try:
-    with open('foo01.txt', 'w') as man_out:
-        print(man, file=man_out)
-except IOError as err:
-    print('The script file is missing. '+ str(err))

@@ -1,6 +1,0 @@
-import ImportClass
-emp1 = emp("Zara01", 2000)
-emp2 = emp("Manni02", 5000)
-
-emp1.displayEmployee()
-emp2.displayEmployee()

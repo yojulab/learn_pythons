@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;Leture_Pyside/puthButton_pyside.py&apos;" deleteContents="false" description="Delete resource &apos;Leture_Pyside/puthButton_pyside.py&apos;" element1="/Leture_Pyside/puthButton_pyside.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1508488874303"/>
-</session>

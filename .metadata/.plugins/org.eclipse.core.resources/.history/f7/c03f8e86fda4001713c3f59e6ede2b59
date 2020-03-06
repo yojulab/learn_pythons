@@ -1,7 +1,0 @@
-def changeme( fmylist ):
-    fmylist = [1,2,3,4];
-    print ("Values inside the function: ", fmylist)
-    return fmylist
-mylist = [10,20,30];
-mylist=changeme( mylist )
-print ("Values outside the function: ", mylist)
