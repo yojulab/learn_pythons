@@ -1,5 +1,0 @@
-print('hello01 !')
-print('hello02 !')
-print('hello03 !')
-print('hello03 !')
-print('hello04 !')
