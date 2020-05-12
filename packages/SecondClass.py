@@ -1,4 +1,4 @@
-from ..ClassAthlete import Athlete
+from ClassAthlete import Athlete
 
 class Point:
     def __init__( self, x=0, y=0):
