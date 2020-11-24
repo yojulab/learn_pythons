@@ -15,6 +15,6 @@ def set_speed(spd):
 
 UPDATE_INTERVAL = 5
 while True:
-    print(‘read temp: ’, read_temp())
+    print('read temp: ', read_temp())
     set_speed(100)          # 0 ~ 255
     time.sleep(UPDATE_INTERVAL)
