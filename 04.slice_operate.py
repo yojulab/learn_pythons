@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 a = [0,1,2,3,4,5,6,7,8,9]
 print('a = ' , a)
 print('a[:2] ->', a[:2])

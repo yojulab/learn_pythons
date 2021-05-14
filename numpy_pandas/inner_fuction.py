@@ -1,3 +1,5 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
+
 a = [1.5, 2, 3, 4, 5]
 b = map(float, a)
 c = divmod(5, 3)

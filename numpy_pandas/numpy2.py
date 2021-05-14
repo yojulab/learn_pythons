@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 import numpy as np
 
 a = np.zeros((2,5), np.int)

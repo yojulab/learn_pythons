@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 def calc_area(type, a, b, c = None):
     if type == 1 :                      # 사격형
         result = a * b

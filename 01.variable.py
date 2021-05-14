@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 '''# 01.variable.py - 변수의 자료형'''
 variable1 = 100                             # 정수 변수 선언
 variable2 = 3.14                            # 실수 변수 선언

@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 year = 2020
 
 if (year%4==0) and (year % 100 != 0):

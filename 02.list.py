@@ -1,3 +1,4 @@
+# from (Book) OpenCV-Python으로 배우는 영상 처리 및 응용
 list1 = [1, 2, 3, 4]
 list2 = [1, 1.5, 'a', 'a', '문자열']
 tuple1 = (1,2)
