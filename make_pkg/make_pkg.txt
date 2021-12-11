@@ -1,3 +1,5 @@
+# refer : https://wikidocs.net/1418#:~:text=%EC%97%AC%EC%95%BC%EB%A7%8C%20%ED%95%9C%EB%8B%A4.-,__init__.py%20%EC%9D%98%20%EC%9A%A9%EB%8F%84,%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A1%9C%20%EC%9D%B8%EC%8B%9D%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.
+
 # windows
 set PYTHONPATH=/Users/sanghunoh/Develops/learn_python
 # linux or mac
