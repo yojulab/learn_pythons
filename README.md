@@ -1,5 +1,7 @@
+
 |분류 | 설명 | 소스| 비고|
 |--| -- |--|--|
-|functions| call by package |[py](./codes/)|--|
-|etc| -- |[py](./etc/)|--|
+|primetives| initial |[ipynb](./codes/10_primetives_initial.ipynb)|--|
+|variables| str, int, float, boolean  |[ipynb](./codes/02_variables.ipynb)|--|
+|primetives| ifs |[ipynb](./codes/10_primetive_ifs.ipynb)|--|
 
