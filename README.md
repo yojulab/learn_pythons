@@ -7,4 +7,8 @@
 |primetives| whiles |[ipynb](./codes/10_primetive_whiles.ipynb)|--|
 |primetives| fors |[ipynb](./codes/10_primetive_fors.ipynb)|--|
 |variables bundle| list |[ipynb](./codes/20_variables_bundles.ipynb)|--|
+|functions| function initial |[ipynb](./codes/30_functions.ipynb)|--|
+|variables bundle| dict |[ipynb](./codes/20_variables_bundles.ipynb)|--|
+
+
 
