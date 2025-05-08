@@ -5,6 +5,6 @@
 |variables| str, int, float, boolean  |[ipynb](./codes/02_variables.ipynb)|--|
 |primetives| ifs |[ipynb](./codes/10_primetive_ifs.ipynb)|--|
 |primetives| whiles |[ipynb](./codes/10_primetive_whiles.ipynb)|--|
-|variables| list |[ipynb](./codes/20_primetive_whiles.ipynb)|--|
-|primetives| fors |[ipynb](./codes/10_primetive_whiles.ipynb)|--|
+|primetives| fors |[ipynb](./codes/10_primetive_fors.ipynb)|--|
+|variables bundle| list |[ipynb](./codes/20_variables_bundles.ipynb)|--|
 
